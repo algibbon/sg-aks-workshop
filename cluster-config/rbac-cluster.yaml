@@ -9,7 +9,7 @@ roleRef:
 subjects:
 - apiGroup: rbac.authorization.k8s.io
   kind: Group
-  name: "60750c04-d60a-4c9d-96f8-39f2bc8f774f"
+  name: "aca77a81-c46c-4431-9dbc-160ffecc0c38"
 ---
 apiVersion: rbac.authorization.k8s.io/v1
 kind: ClusterRoleBinding
@@ -22,7 +22,7 @@ roleRef:
 subjects:
 - apiGroup: rbac.authorization.k8s.io
   kind: Group
-  name: "d70935a4-42bb-4564-b95f-0f168de2f428"
+  name: "6a906ae1-e169-41f2-a396-bed117d4a709"
 ---
 apiVersion: rbac.authorization.k8s.io/v1
 kind: ClusterRole
