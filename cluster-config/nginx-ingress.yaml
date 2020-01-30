@@ -209,6 +209,7 @@ subjects:
     namespace: ingress
 ---
 # Source: nginx-ingress/templates/controller-service.yaml
+# Changing subnet to personal resource
 apiVersion: v1
 kind: Service
 metadata:
